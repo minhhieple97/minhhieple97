@@ -1,16 +1,56 @@
-## Hi there 👋
+# Minh Hiep Le - Fullstack Engineer
 
-<!--
-**minhhieple97/minhhieple97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/minhhieple97)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:leminhhiep97@outlook.com.vn)
+[![Phone](https://img.shields.io/badge/Phone-%2B84889644797-green)](tel:+84889644797)
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Experienced Fullstack Engineer with a strong focus on modern web technologies and cloud architecture. I specialize in building scalable applications using TypeScript, React.js, Next.js, Node.js, and AWS serverless technologies. My expertise includes system design, API development, data processing pipelines, and performance optimization.
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+- **Frontend**: React.js, Next.js, Tailwind CSS
+- **Backend**: Node.js, Nest.js, Express.js
+- **Languages**: TypeScript, JavaScript, C#
+- **Architecture**: Serverless, Microservices, gRPC
+
+### Databases & Storage
+- MongoDB, PostgreSQL, DynamoDB, Redis, Elasticsearch
+- AWS S3
+
+### Cloud & DevOps
+- **AWS**: Lambda, API Gateway, EventBridge, SQS
+- **DevOps**: Docker, GitHub Actions, PM2
+- **Messaging**: RabbitMQ, SQS
+
+## 🚀 Featured Projects
+
+### [LearnTub](https://github.com/minhhieple97/learn-tub)
+A modern learning platform that transforms passive YouTube video watching into active learning experiences.
+
+- **Key Features**: AI-powered notes, quiz generation, timestamp syncing, progress tracking
+- **Tech Stack**: Next.js 15, TypeScript, Tailwind CSS, NestJS, PostgreSQL (Supabase), OpenAI & Google Gemini
+- **Architecture**: Monorepo with Turborepo, pnpm workspaces
+- **Live Demo**: [learn-tub.vercel.app](https://learn-tub.vercel.app)
+
+### [Shortlink](https://github.com/minhhieple97/shortlink)
+Enterprise-grade URL shortener with advanced security and analytics capabilities.
+
+- **Key Features**: Asynchronous processing, AI-powered security, real-time analytics, QR code generation
+- **Tech Stack**: Next.js 15, TypeScript, Tailwind CSS, PostgreSQL, Drizzle ORM, Redis, Clerk Auth
+- **Architecture**: Modern Next.js App Router with Server Actions
+- **Live Demo**: [shortlink-lac.vercel.app](https://shortlink-lac.vercel.app)
+
+## 📫 Let's Connect
+
+I'm always interested in collaborating on innovative projects and discussing new technologies. Feel free to reach out!
+
+- 📧 Email: [leminhhiep97@outlook.com.vn](mailto:leminhhiep97@outlook.com.vn)
+- 📱 Phone: [(+84) 889644797](tel:+84889644797)
+- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/YourLinkedInHandle)
+
+---
+
+⭐️ From [minhhieple97](https://github.com/minhhieple97)
