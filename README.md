@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/minhhieple97)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:leminhhiep97@outlook.com.vn)
-[![Phone](https://img.shields.io/badge/Phone-%2B84889644797-green)](tel:+84889644797)
+[![Phone/WhatsApp](https://img.shields.io/badge/Phone-%2B84889644797-green)](tel:+84889644797)
 
 ## 👨‍💻 About Me
 
@@ -42,14 +42,6 @@ Enterprise-grade URL shortener with advanced security and analytics capabilities
 - **Tech Stack**: `Next.js 15` `TypeScript` `Tailwind CSS` `PostgreSQL` `Drizzle ORM` `Redis` `Clerk Auth`
 - **Architecture**: Modern Next.js App Router with Server Actions
 - **Live Demo**: [shortlink-lac.vercel.app](https://shortlink-lac.vercel.app)
-
-## 📫 Let's Connect
-
-I'm always interested in collaborating on innovative projects and discussing new technologies. Feel free to reach out!
-
-- 📧 Email: [leminhhiep97@outlook.com.vn](mailto:leminhhiep97@outlook.com.vn)
-- 📱 Phone/Whatsapp: [(+84) 889644797](tel:+84889644797)
-- 💼 LinkedIn: [minhhieple97](https://linkedin.com/in/YourLinkedInHandle)
 
 ---
 
