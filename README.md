@@ -11,35 +11,35 @@ Experienced Fullstack Engineer with a strong focus on modern web technologies an
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
-- **Frontend**: React.js, Next.js, Tailwind CSS
-- **Backend**: Node.js, Nest.js, Express.js
-- **Languages**: TypeScript, JavaScript, C#
-- **Architecture**: Serverless, Microservices, gRPC
+- **Frontend**: `React.js` `Next.js` `Tailwind CSS`
+- **Backend**: `Node.js` `Nest.js` `Express.js`
+- **Languages**: `TypeScript` `JavaScript` `C#`
+- **Architecture**: `Serverless` `Microservices` `gRPC`
 
 ### Databases & Storage
-- MongoDB, PostgreSQL, DynamoDB, Redis, Elasticsearch
-- AWS S3
+- `MongoDB` `PostgreSQL` `DynamoDB` `Redis` `Elasticsearch`
+- `AWS S3`
 
 ### Cloud & DevOps
-- **AWS**: Lambda, API Gateway, EventBridge, SQS
-- **DevOps**: Docker, GitHub Actions, PM2
-- **Messaging**: RabbitMQ, SQS
+- **AWS**: `Lambda` `API Gateway` `EventBridge` `SQS`
+- **DevOps**: `Docker` `GitHub Actions` `PM2`
+- **Messaging**: `RabbitMQ` `SQS`
 
-## 🚀 Featured Projects
+## 🚀 Pet Projects
 
 ### [LearnTub](https://github.com/minhhieple97/learn-tub)
 A modern learning platform that transforms passive YouTube video watching into active learning experiences.
 
 - **Key Features**: AI-powered notes, quiz generation, timestamp syncing, progress tracking
-- **Tech Stack**: Next.js 15, TypeScript, Tailwind CSS, NestJS, PostgreSQL (Supabase), OpenAI & Google Gemini
-- **Architecture**: Monorepo with Turborepo, pnpm workspaces
+- **Tech Stack**: `Next.js 15` `TypeScript` `Tailwind CSS` `NestJS` `PostgreSQL` `Supabase` `OpenAI` `Google Gemini`
+- **Architecture**: Monorepo with `Turborepo`, `pnpm workspaces`
 - **Live Demo**: [learn-tub.vercel.app](https://learn-tub.vercel.app)
 
 ### [Shortlink](https://github.com/minhhieple97/shortlink)
 Enterprise-grade URL shortener with advanced security and analytics capabilities.
 
 - **Key Features**: Asynchronous processing, AI-powered security, real-time analytics, QR code generation
-- **Tech Stack**: Next.js 15, TypeScript, Tailwind CSS, PostgreSQL, Drizzle ORM, Redis, Clerk Auth
+- **Tech Stack**: `Next.js 15` `TypeScript` `Tailwind CSS` `PostgreSQL` `Drizzle ORM` `Redis` `Clerk Auth`
 - **Architecture**: Modern Next.js App Router with Server Actions
 - **Live Demo**: [shortlink-lac.vercel.app](https://shortlink-lac.vercel.app)
 
@@ -48,8 +48,8 @@ Enterprise-grade URL shortener with advanced security and analytics capabilities
 I'm always interested in collaborating on innovative projects and discussing new technologies. Feel free to reach out!
 
 - 📧 Email: [leminhhiep97@outlook.com.vn](mailto:leminhhiep97@outlook.com.vn)
-- 📱 Phone: [(+84) 889644797](tel:+84889644797)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/YourLinkedInHandle)
+- 📱 Phone/Whatsapp: [(+84) 889644797](tel:+84889644797)
+- 💼 LinkedIn: [minhhieple97](https://linkedin.com/in/YourLinkedInHandle)
 
 ---
 
