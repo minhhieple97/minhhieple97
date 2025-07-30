@@ -87,17 +87,6 @@
 
 **🌐 Live Demo**: [corgi-link.vercel.app](https://corgi-link.vercel.app/)
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minhhieple97&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minhhieple97&layout=compact&theme=radical&hide_border=true)
-
-## 🏆 GitHub Achievements
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=minhhieple97&theme=radical&hide_border=true)
-
----
-
-⭐️ **Open to collaboration on interesting projects!** Feel free to reach out for discussions about system architecture, AI integration, or modern web development.
 
 📧 **Contact**: [leminhhiep97@outlook.com.vn](mailto:leminhhiep97@outlook.com.vn)
