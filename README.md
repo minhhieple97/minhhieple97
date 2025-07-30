@@ -88,5 +88,3 @@
 **🌐 Live Demo**: [corgi-link.vercel.app](https://corgi-link.vercel.app/)
 
 
-
-📧 **Contact**: [leminhhiep97@outlook.com.vn](mailto:leminhhiep97@outlook.com.vn)
